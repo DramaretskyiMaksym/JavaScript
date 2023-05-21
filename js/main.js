@@ -1,4 +1,4 @@
-//HomeWORK #1
+//HOMEWORK #1
 alert ('Привiт');
 
 let answerBirth = 'Шкода, що Ви не захотіли ввести свій(ю) дату народження';
@@ -77,7 +77,7 @@ if(userCity == 'Київ' || userCity == 'київ'){
   alert(string +  currentYear + "\n" + liveChange + userCity + "\n" + favoriteSport + answerSport )
 }
 
-// homeWORK #2
+// HomeWORK #2
 let numOrStr = prompt('input number or string');
 console.log(numOrStr);
 
